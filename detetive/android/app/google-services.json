@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301878654886",
+    "project_id": "detetive-45af8",
+    "storage_bucket": "detetive-45af8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301878654886:android:ef280d41b42f8e3f160167",
+        "android_client_info": {
+          "package_name": "com.example.detetive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301878654886-mchbg5u3bbnarhjboo84cdt8ikk9nl05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4gkhlemmLq3H0HvmsnHTmoxFNhG6M8zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301878654886-mchbg5u3bbnarhjboo84cdt8ikk9nl05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
