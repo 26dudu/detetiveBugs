@@ -123,4 +123,4 @@ Projeto: Central de Achados (Flutter + Firebase)
 3. A conta B enviou uma pista e ela apareceu na ocorrência certa nas duas contas.
 4. Só a conta A viu o botão para marcar como resolvido.
 
-Captura de tela: `print_duas_contas.png`
+
