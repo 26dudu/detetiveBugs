@@ -111,16 +111,4 @@ Projeto: Central de Achados (Flutter + Firebase)
 
 ---
 
-## Regras de segurança (Firestore)
-- **Arquivo:** `firestore.rules`
-- **Problema:** sem regras, qualquer pessoa poderia mudar o status de uma ocorrência de outra.
-- **Correção:** só usuário logado lê e cria; só o dono altera. As regras não foram desativadas.
-- **Teste:** na conta B não aparece o botão para resolver a ocorrência da conta A.
-
-## Teste com duas contas
-1. Conta A (janela normal) e conta B (janela anônima) logadas com contas Google diferentes.
-2. A conta A registrou uma ocorrência e ela apareceu sozinha na conta B.
-3. A conta B enviou uma pista e ela apareceu na ocorrência certa nas duas contas.
-4. Só a conta A viu o botão para marcar como resolvido.
-
 
